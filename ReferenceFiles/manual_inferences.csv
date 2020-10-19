@@ -1,0 +1,24 @@
+,place_type,place_full_name,city,state,corrected
+0,neighborhood,"Beverly Hills, CA",Beverly Hills,CA,1
+1,neighborhood,"Downtown Jacksonville, FL",Jacksonville,FL,1
+2,neighborhood,"Capitol Hill, Washington",Washington,DC,1
+3,neighborhood,"East Potomac Park, Washington",Washington,DC,1
+4,neighborhood,"Downtown, FL",unspecified,FL,1
+5,neighborhood,"Southwest, FL",unspecified,FL,1
+6,neighborhood,"Shaw, Washington",Washington,DC,1
+7,neighborhood,"San Fernando, CA",San Fernando,CA,1
+8,neighborhood,"Friendship Heights, Washington",Washington,DC,1
+9,neighborhood,"Adams Morgan, Washington",Washington,DC,1
+10,neighborhood,"San Marco, FL",Jacksonville,FL,1
+11,neighborhood,"Duclay Forest, FL",Jacksonville,FL,1
+12,neighborhood,"Jax Naval Air Station, FL",Jacksonville,FL,1
+13,neighborhood,"Navy Yard, Washington",Washington,DC,1
+14,neighborhood,"Dupont Circle, Washington",Washington,DC,1
+15,neighborhood,"Norridge, IL",Norridge,IL,1
+16,neighborhood,"Petworth, Washington",Washington,DC,1
+17,neighborhood,"Oak Park, IL",Oak Park,IL,1
+18,neighborhood,"Orange Park, FL",Orange Park,FL,1
+19,neighborhood,"Chevy Chase, Washington",Washington,DC,1
+20,neighborhood,"Southwest, Washington",Washington,DC,1
+21,neighborhood,"Southside, FL",Jacksonville,FL,1
+22,neighborhood,"Kalorama, Washington",Washington,DC,1
